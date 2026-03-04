@@ -1,0 +1,1 @@
+{"id":"14013504-a9ae-41e5-8e56-91d5e6f73ab5","ts":"2026-03-03T22:44:23.467Z","version":"1.0.2","toolName":"apply_diff","taskID":"f62e59d7-06b0-4996-951a-42c282ff0748","path":"manageiq-operator/api/v1alpha1/helpers/miq-components/operator.go","numLinesApplied":3,"currentRange":{"startLine":77,"endLine":79}}
